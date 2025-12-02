@@ -49,34 +49,6 @@
 ### 🧩 Baekjoon Solved Problem
 - 총 해결 문제 수: **SOLVED_COUNT** 문제
 
-name: Update Baekjoon Solved Count
-
-on:
-  schedule:
-    - cron: '0 0 * * *'   # 매일 자동 실행
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Get solved count
-        id: solved
-        run: |
-          COUNT=$(curl -s https://solved.ac/api/v3/user/show?handle=YOUR_BOJ_ID | jq '.solvedCount')
-          echo "count=$COUNT" >> $GITHUB_OUTPUT
-      - name: Update README
-        run: |
-          sed -i "s/SOLVED_COUNT/${{ steps.solved.outputs.count }}/g" README.md
-      - name: Commit
-        run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git add .
-          git commit -m "Update Baekjoon solved count" || echo "No changes"
-          git push
-
 
 
 ## 📚 What I'm Learning Now
