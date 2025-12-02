@@ -1,11 +1,4 @@
-<h1 align="center">👋 김진성입니다</h1>
 
-<p align="center">
-  데이터 엔지니어링과 백엔드 개발에 관심 많은 개발자입니다.<br/>
-  빠르게 배우고, 직접 만들어보며 성장하겠습니다.
-</p>
-
----
 
 ## 🚀 Tech Stack
 
@@ -46,41 +39,6 @@
 
 ---
 
-### 🧩 Baekjoon Solved Problem
-- 총 해결 문제 수: **SOLVED_COUNT** 문제
-
-
-
-## 📚 What I'm Learning Now
-- 데이터 엔지니어링  
-- FastAPI 기반 API 서버  
-- SQL 심화 및 데이터 모델링  
-- 클라우드 기반 데이터 파이프라인  
-- Spring Boot + JPA 구조 깊게 파보기  
-
----
-
-## ✨ Projects
-### 📌 **Bus-Checker**
-버스 도착 정보를 빠르게 확인하는 나만의 서비스  
-> “내가 필요해서 만든 프로젝트!”
-
-### 📌 **Auto Face-Washing AI**
-고령층을 위한 스마트 세안 AI 가이드 시스템
-
----
-
-## 🌱 About Me
-- 꾸준하게 공부하고 기록하는 걸 좋아합니다  
-- 데이터 흐름을 설계하고 자동화하는 데 흥미가 있어요  
-- 성장 과정에서 얻은 지식들을 정리해 공유합니다  
-
----
-
 ## ✉️ Contact
 📬 **Email**: viviamm7@gmail.com  
 📓 **Blog / Velog**:https://velog.io/@viviamm7-code/posts
-
----
-
-⭐️ *If you like my work, feel free to follow or star my repositories!*  
