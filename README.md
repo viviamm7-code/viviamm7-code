@@ -29,7 +29,7 @@
 
 ## 🏆 Baekjoon Tier
 <div align="center">
-[!백준](http://mazassumnida.wtf/api/generate_badge?boj=solveback)](https://solved.ac/sovleback)
+[![백준](http://mazassumnida.wtf/api/generate_badge?boj=solveback)](https://solved.ac/solveback)
 
 </div>
 
