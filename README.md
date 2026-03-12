@@ -14,8 +14,7 @@
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 ### 🛠️ Tools
@@ -28,10 +27,7 @@
 ---
 
 ## 🏆 Baekjoon Tier
-<div align="center">
 [![백준](http://mazassumnida.wtf/api/generate_badge?boj=solveback)](https://solved.ac/solveback)
-
-</div>
 
 ---
 
