@@ -1,6 +1,12 @@
+## 🏆 Baekjoon Tier
+
+[![백준](http://mazassumnida.wtf/api/generate_badge?boj=solveback)](https://solved.ac/solveback)
+
+---
+
 ## 🛠 Tech Stack
 
-<div align="center">
+<div>
 
   <h3>Language & Framework</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -18,6 +24,7 @@
 
 </div>
 ---
+
 
 ## ✉️ Contact
 📬 **Email**: viviamm7@gmail.com  
