@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
 
 ### 🗄️ Database
@@ -29,8 +29,7 @@
 
 ## 🏆 Baekjoon Tier
 <div align="center">
-
-![백준]([http://mazassumnida.wtf/api/generate_badge?boj=solveback](https://solved.ac/profile/solveback))
+[![백준](http://mazassumnida.wtf/api/generate_badge?boj=solveback)](https://solved.ac/sovleback)
 
 </div>
 
